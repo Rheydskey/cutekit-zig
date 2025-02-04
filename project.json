@@ -1,0 +1,8 @@
+{
+  "$schema": "https://schemas.cute.engineering/stable/cutekit.manifest.project.v1",
+  "id": "rheydskey/zig",
+  "type": "project",
+  "version": "v0.1.0",
+  "description": "A sample cutekit project",
+  "extern": {}
+}
