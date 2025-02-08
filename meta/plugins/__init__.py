@@ -8,7 +8,7 @@ append(
         "build-obj $flags -femit-bin=$out $in",
         [
             "-fPIE",
-            "-fcompiler-rt",
+            "-fno-stack-check",
         ],
     )
 )
